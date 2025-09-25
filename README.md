@@ -77,14 +77,15 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 Frontend Setup
-bash
-Copy code
+
+ 
 cd frontend
 npm install
 npm run dev
 Building Project Index
-bash
-Copy code
+
+
+
 cd backend/scripts
 python build_index.py
 python thumb_generator.py
@@ -119,5 +120,6 @@ Copy code
 ---
 
 If you want, I can **also add a “dynamic project showcase” section** in this README that pulls from `index.json` and shows each project’s title, tags, and thumbnail, so the README itself feels interactive when browsing on GitHub. This is often done with badges or linked images.  
+
 
 Do you want me to do that?
