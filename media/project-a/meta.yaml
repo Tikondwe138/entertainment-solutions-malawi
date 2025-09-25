@@ -1,0 +1,18 @@
+# meta.yaml
+# Metadata for a creative-tech project in Ent-Sol-Malawi
+
+title: Project A
+description: >
+  A brief description of Project A, highlighting the technology, purpose,
+  and creative aspects of the project.
+
+tags:
+  - AI
+  - Web
+  - Creative-Tech
+  - Malawi
+
+date: 2025-09-25           # ISO format YYYY-MM-DD
+url: https://example.com/project-a  # Optional: link to live project or case study
+author: John Doe            # Optional: project lead or team
+category: Web/App           # Optional: category of project
